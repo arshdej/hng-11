@@ -1,0 +1,3 @@
+01-deployment/terraform.tfvars
+01-deployment/.terraform/*
+01-deployment/.terraform.*
